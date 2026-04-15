@@ -39,5 +39,3 @@ The signaling server only exchanges WebRTC handshake messages (offer/answer/ICE 
 - **Signaling Server**: Node.js + `ws` (WebSocket library)
 - **Discovery**: Signaling server broadcasts connected peer list
 - **Transfer**: Direct WebRTC DataChannel, chunked `ArrayBuffer` streaming
-# LanShare — P2P LAN File Transfer
-
