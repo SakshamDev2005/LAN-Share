@@ -1,6 +1,8 @@
 # LanShare — P2P LAN File Transfer
 
-Send files directly between devices on your local network using WebRTC.
+LAN Share is a fast, open-source file sharing application that lets you transfer files between devices on the same local network — without internet, cloud services, or external servers.
+Built with C++ and Qt, it enables secure, peer-to-peer file transfers with minimal setup, making it ideal for quick sharing across laptops, desktops, and local environments.
+
 **No files ever touch the signaling server** — they transfer peer-to-peer.
 
 ## Architecture
